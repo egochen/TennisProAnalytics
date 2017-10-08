@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<MatchStats match_score="67(6) 76(4) 61" match_stage="1st Round Qualifying" match_time="02:20:00">
+   
+        
+   <matchstats playerID="Alessandro Giannessi">
+      <Aces>3</Aces>
+      <AcesPercentage>33.333333333333329</AcesPercentage>
+      <DoubleFaults>4</DoubleFaults>
+      <DoubleFaultsPercentage>80.0</DoubleFaultsPercentage>
+      <FirstServePercentage>65</FirstServePercentage>
+      <FirstServeDividend>71</FirstServeDividend>
+      <FirstServeDivisor>109</FirstServeDivisor>
+      <FirstServePointsWonPercentage>72</FirstServePointsWonPercentage>
+      <FirstServePointsWonDividend>51</FirstServePointsWonDividend>
+      <FirstServePointsWonDivisor>71</FirstServePointsWonDivisor>
+      <SecondServePointsWonPercentage>61</SecondServePointsWonPercentage>
+      <SecondServePointsWonDividend>23</SecondServePointsWonDividend>
+      <SecondServePointsWonDivisor>38</SecondServePointsWonDivisor>
+      <BreakPointsSavedPercentage>75</BreakPointsSavedPercentage>
+      <BreakPointsSavedDividend>6</BreakPointsSavedDividend>
+      <BreakPointsSavedDivisor>8</BreakPointsSavedDivisor>
+      <ServiceGamesPlayed>16</ServiceGamesPlayed>
+      <ServiceGamesPlayedPercentage>51.612903225806448</ServiceGamesPlayedPercentage>
+      <FirstServeReturnPointsPercentage>31</FirstServeReturnPointsPercentage>
+      <FirstServeReturnPointsDividend>19</FirstServeReturnPointsDividend>
+      <FirstServeReturnPointsDivisor>61</FirstServeReturnPointsDivisor>
+      <SecondServePointsPercentage>47</SecondServePointsPercentage>
+      <SecondServePointsDividend>20</SecondServePointsDividend>
+      <SecondServePointsDivisor>43</SecondServePointsDivisor>
+      <BreakPointsConvertedPercentage>50</BreakPointsConvertedPercentage>
+      <BreakPointsConvertedDividend>4</BreakPointsConvertedDividend>
+      <BreakPointsConvertedDivisor>8</BreakPointsConvertedDivisor>
+      <ReturnGamesPlayed>15</ReturnGamesPlayed>
+      <ReturnGamesPlayedPercentage>48.387096774193552</ReturnGamesPlayedPercentage>
+      <TotalServicePointsWonPercentage>68</TotalServicePointsWonPercentage>
+      <TotalServicePointsWonDividend>74</TotalServicePointsWonDividend>
+      <TotalServicePointsWonDivisor>109</TotalServicePointsWonDivisor>
+      <TotalReturnPointsWonPercentage>38</TotalReturnPointsWonPercentage>
+      <TotalReturnPointsWonDividend>39</TotalReturnPointsWonDividend>
+      <TotalReturnPointsWonDivisor>104</TotalReturnPointsWonDivisor>
+      <TotalPointsWonPercentage>53</TotalPointsWonPercentage>
+      <TotalPointsWonDividend>113</TotalPointsWonDividend>
+      <TotalPointsWonDivisor>213</TotalPointsWonDivisor>
+   </matchstats>
+   <matchstats playerID="Dennis Novikov">
+      <Aces>6</Aces>
+      <AcesPercentage>66.666666666666657</AcesPercentage>
+      <DoubleFaults>1</DoubleFaults>
+      <DoubleFaultsPercentage>20.0</DoubleFaultsPercentage>
+      <FirstServePercentage>59</FirstServePercentage>
+      <FirstServeDividend>61</FirstServeDividend>
+      <FirstServeDivisor>104</FirstServeDivisor>
+      <FirstServePointsWonPercentage>69</FirstServePointsWonPercentage>
+      <FirstServePointsWonDividend>42</FirstServePointsWonDividend>
+      <FirstServePointsWonDivisor>61</FirstServePointsWonDivisor>
+      <SecondServePointsWonPercentage>53</SecondServePointsWonPercentage>
+      <SecondServePointsWonDividend>23</SecondServePointsWonDividend>
+      <SecondServePointsWonDivisor>43</SecondServePointsWonDivisor>
+      <BreakPointsSavedPercentage>50</BreakPointsSavedPercentage>
+      <BreakPointsSavedDividend>4</BreakPointsSavedDividend>
+      <BreakPointsSavedDivisor>8</BreakPointsSavedDivisor>
+      <ServiceGamesPlayed>15</ServiceGamesPlayed>
+      <ServiceGamesPlayedPercentage>48.387096774193552</ServiceGamesPlayedPercentage>
+      <FirstServeReturnPointsPercentage>28</FirstServeReturnPointsPercentage>
+      <FirstServeReturnPointsDividend>20</FirstServeReturnPointsDividend>
+      <FirstServeReturnPointsDivisor>71</FirstServeReturnPointsDivisor>
+      <SecondServePointsPercentage>39</SecondServePointsPercentage>
+      <SecondServePointsDividend>15</SecondServePointsDividend>
+      <SecondServePointsDivisor>38</SecondServePointsDivisor>
+      <BreakPointsConvertedPercentage>25</BreakPointsConvertedPercentage>
+      <BreakPointsConvertedDividend>2</BreakPointsConvertedDividend>
+      <BreakPointsConvertedDivisor>8</BreakPointsConvertedDivisor>
+      <ReturnGamesPlayed>16</ReturnGamesPlayed>
+      <ReturnGamesPlayedPercentage>51.612903225806448</ReturnGamesPlayedPercentage>
+      <TotalServicePointsWonPercentage>63</TotalServicePointsWonPercentage>
+      <TotalServicePointsWonDividend>65</TotalServicePointsWonDividend>
+      <TotalServicePointsWonDivisor>104</TotalServicePointsWonDivisor>
+      <TotalReturnPointsWonPercentage>32</TotalReturnPointsWonPercentage>
+      <TotalReturnPointsWonDividend>35</TotalReturnPointsWonDividend>
+      <TotalReturnPointsWonDivisor>109</TotalReturnPointsWonDivisor>
+      <TotalPointsWonPercentage>47</TotalPointsWonPercentage>
+      <TotalPointsWonDividend>100</TotalPointsWonDividend>
+      <TotalPointsWonDivisor>213}</TotalPointsWonDivisor>
+   </matchstats>
+</MatchStats>

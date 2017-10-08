@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<MatchStats match_score="61 63" match_stage="Round of 16" match_time="01:01:00">
+   
+        
+   <matchstats playerID="Taylor Fritz">
+      <Aces>4</Aces>
+      <AcesPercentage>57.142857142857139</AcesPercentage>
+      <DoubleFaults>1</DoubleFaults>
+      <DoubleFaultsPercentage>25.0</DoubleFaultsPercentage>
+      <FirstServePercentage>68</FirstServePercentage>
+      <FirstServeDividend>32</FirstServeDividend>
+      <FirstServeDivisor>47</FirstServeDivisor>
+      <FirstServePointsWonPercentage>75</FirstServePointsWonPercentage>
+      <FirstServePointsWonDividend>24</FirstServePointsWonDividend>
+      <FirstServePointsWonDivisor>32</FirstServePointsWonDivisor>
+      <SecondServePointsWonPercentage>53</SecondServePointsWonPercentage>
+      <SecondServePointsWonDividend>8</SecondServePointsWonDividend>
+      <SecondServePointsWonDivisor>15</SecondServePointsWonDivisor>
+      <BreakPointsSavedPercentage>0</BreakPointsSavedPercentage>
+      <BreakPointsSavedDividend>0</BreakPointsSavedDividend>
+      <BreakPointsSavedDivisor>1</BreakPointsSavedDivisor>
+      <ServiceGamesPlayed>8</ServiceGamesPlayed>
+      <ServiceGamesPlayedPercentage>50.0</ServiceGamesPlayedPercentage>
+      <FirstServeReturnPointsPercentage>60</FirstServeReturnPointsPercentage>
+      <FirstServeReturnPointsDividend>18</FirstServeReturnPointsDividend>
+      <FirstServeReturnPointsDivisor>30</FirstServeReturnPointsDivisor>
+      <SecondServePointsPercentage>57</SecondServePointsPercentage>
+      <SecondServePointsDividend>13</SecondServePointsDividend>
+      <SecondServePointsDivisor>23</SecondServePointsDivisor>
+      <BreakPointsConvertedPercentage>42</BreakPointsConvertedPercentage>
+      <BreakPointsConvertedDividend>5</BreakPointsConvertedDividend>
+      <BreakPointsConvertedDivisor>12</BreakPointsConvertedDivisor>
+      <ReturnGamesPlayed>8</ReturnGamesPlayed>
+      <ReturnGamesPlayedPercentage>50.0</ReturnGamesPlayedPercentage>
+      <TotalServicePointsWonPercentage>68</TotalServicePointsWonPercentage>
+      <TotalServicePointsWonDividend>32</TotalServicePointsWonDividend>
+      <TotalServicePointsWonDivisor>47</TotalServicePointsWonDivisor>
+      <TotalReturnPointsWonPercentage>58</TotalReturnPointsWonPercentage>
+      <TotalReturnPointsWonDividend>31</TotalReturnPointsWonDividend>
+      <TotalReturnPointsWonDivisor>53</TotalReturnPointsWonDivisor>
+      <TotalPointsWonPercentage>63</TotalPointsWonPercentage>
+      <TotalPointsWonDividend>63</TotalPointsWonDividend>
+      <TotalPointsWonDivisor>100</TotalPointsWonDivisor>
+   </matchstats>
+   <matchstats playerID="Victor Estrella Burgos">
+      <Aces>3</Aces>
+      <AcesPercentage>42.857142857142854</AcesPercentage>
+      <DoubleFaults>3</DoubleFaults>
+      <DoubleFaultsPercentage>75.0</DoubleFaultsPercentage>
+      <FirstServePercentage>57</FirstServePercentage>
+      <FirstServeDividend>30</FirstServeDividend>
+      <FirstServeDivisor>53</FirstServeDivisor>
+      <FirstServePointsWonPercentage>40</FirstServePointsWonPercentage>
+      <FirstServePointsWonDividend>12</FirstServePointsWonDividend>
+      <FirstServePointsWonDivisor>30</FirstServePointsWonDivisor>
+      <SecondServePointsWonPercentage>43</SecondServePointsWonPercentage>
+      <SecondServePointsWonDividend>10</SecondServePointsWonDividend>
+      <SecondServePointsWonDivisor>23</SecondServePointsWonDivisor>
+      <BreakPointsSavedPercentage>58</BreakPointsSavedPercentage>
+      <BreakPointsSavedDividend>7</BreakPointsSavedDividend>
+      <BreakPointsSavedDivisor>12</BreakPointsSavedDivisor>
+      <ServiceGamesPlayed>8</ServiceGamesPlayed>
+      <ServiceGamesPlayedPercentage>50.0</ServiceGamesPlayedPercentage>
+      <FirstServeReturnPointsPercentage>25</FirstServeReturnPointsPercentage>
+      <FirstServeReturnPointsDividend>8</FirstServeReturnPointsDividend>
+      <FirstServeReturnPointsDivisor>32</FirstServeReturnPointsDivisor>
+      <SecondServePointsPercentage>47</SecondServePointsPercentage>
+      <SecondServePointsDividend>7</SecondServePointsDividend>
+      <SecondServePointsDivisor>15</SecondServePointsDivisor>
+      <BreakPointsConvertedPercentage>100</BreakPointsConvertedPercentage>
+      <BreakPointsConvertedDividend>1</BreakPointsConvertedDividend>
+      <BreakPointsConvertedDivisor>1</BreakPointsConvertedDivisor>
+      <ReturnGamesPlayed>8</ReturnGamesPlayed>
+      <ReturnGamesPlayedPercentage>50.0</ReturnGamesPlayedPercentage>
+      <TotalServicePointsWonPercentage>42</TotalServicePointsWonPercentage>
+      <TotalServicePointsWonDividend>22</TotalServicePointsWonDividend>
+      <TotalServicePointsWonDivisor>53</TotalServicePointsWonDivisor>
+      <TotalReturnPointsWonPercentage>32</TotalReturnPointsWonPercentage>
+      <TotalReturnPointsWonDividend>15</TotalReturnPointsWonDividend>
+      <TotalReturnPointsWonDivisor>47</TotalReturnPointsWonDivisor>
+      <TotalPointsWonPercentage>37</TotalPointsWonPercentage>
+      <TotalPointsWonDividend>37</TotalPointsWonDividend>
+      <TotalPointsWonDivisor>100}</TotalPointsWonDivisor>
+   </matchstats>
+</MatchStats>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<MatchStats match_score="62 60" match_stage="Round of 32" match_time="00:51:00">
+   
+        
+   <matchstats playerID="Sam Querrey">
+      <Aces>4</Aces>
+      <AcesPercentage>80.0</AcesPercentage>
+      <DoubleFaults>2</DoubleFaults>
+      <DoubleFaultsPercentage>40.0</DoubleFaultsPercentage>
+      <FirstServePercentage>50</FirstServePercentage>
+      <FirstServeDividend>20</FirstServeDividend>
+      <FirstServeDivisor>40</FirstServeDivisor>
+      <FirstServePointsWonPercentage>95</FirstServePointsWonPercentage>
+      <FirstServePointsWonDividend>19</FirstServePointsWonDividend>
+      <FirstServePointsWonDivisor>20</FirstServePointsWonDivisor>
+      <SecondServePointsWonPercentage>50</SecondServePointsWonPercentage>
+      <SecondServePointsWonDividend>10</SecondServePointsWonDividend>
+      <SecondServePointsWonDivisor>20</SecondServePointsWonDivisor>
+      <BreakPointsSavedPercentage>0</BreakPointsSavedPercentage>
+      <BreakPointsSavedDividend>0</BreakPointsSavedDividend>
+      <BreakPointsSavedDivisor>0</BreakPointsSavedDivisor>
+      <ServiceGamesPlayed>7</ServiceGamesPlayed>
+      <ServiceGamesPlayedPercentage>50.0</ServiceGamesPlayedPercentage>
+      <FirstServeReturnPointsPercentage>54</FirstServeReturnPointsPercentage>
+      <FirstServeReturnPointsDividend>14</FirstServeReturnPointsDividend>
+      <FirstServeReturnPointsDivisor>26</FirstServeReturnPointsDivisor>
+      <SecondServePointsPercentage>59</SecondServePointsPercentage>
+      <SecondServePointsDividend>16</SecondServePointsDividend>
+      <SecondServePointsDivisor>27</SecondServePointsDivisor>
+      <BreakPointsConvertedPercentage>42</BreakPointsConvertedPercentage>
+      <BreakPointsConvertedDividend>5</BreakPointsConvertedDividend>
+      <BreakPointsConvertedDivisor>12</BreakPointsConvertedDivisor>
+      <ReturnGamesPlayed>7</ReturnGamesPlayed>
+      <ReturnGamesPlayedPercentage>50.0</ReturnGamesPlayedPercentage>
+      <TotalServicePointsWonPercentage>73</TotalServicePointsWonPercentage>
+      <TotalServicePointsWonDividend>29</TotalServicePointsWonDividend>
+      <TotalServicePointsWonDivisor>40</TotalServicePointsWonDivisor>
+      <TotalReturnPointsWonPercentage>57</TotalReturnPointsWonPercentage>
+      <TotalReturnPointsWonDividend>30</TotalReturnPointsWonDividend>
+      <TotalReturnPointsWonDivisor>53</TotalReturnPointsWonDivisor>
+      <TotalPointsWonPercentage>63</TotalPointsWonPercentage>
+      <TotalPointsWonDividend>59</TotalPointsWonDividend>
+      <TotalPointsWonDivisor>93</TotalPointsWonDivisor>
+   </matchstats>
+   <matchstats playerID="Dudi Sela">
+      <Aces>1</Aces>
+      <AcesPercentage>20.0</AcesPercentage>
+      <DoubleFaults>3</DoubleFaults>
+      <DoubleFaultsPercentage>60.0</DoubleFaultsPercentage>
+      <FirstServePercentage>49</FirstServePercentage>
+      <FirstServeDividend>26</FirstServeDividend>
+      <FirstServeDivisor>53</FirstServeDivisor>
+      <FirstServePointsWonPercentage>46</FirstServePointsWonPercentage>
+      <FirstServePointsWonDividend>12</FirstServePointsWonDividend>
+      <FirstServePointsWonDivisor>26</FirstServePointsWonDivisor>
+      <SecondServePointsWonPercentage>41</SecondServePointsWonPercentage>
+      <SecondServePointsWonDividend>11</SecondServePointsWonDividend>
+      <SecondServePointsWonDivisor>27</SecondServePointsWonDivisor>
+      <BreakPointsSavedPercentage>58</BreakPointsSavedPercentage>
+      <BreakPointsSavedDividend>7</BreakPointsSavedDividend>
+      <BreakPointsSavedDivisor>12</BreakPointsSavedDivisor>
+      <ServiceGamesPlayed>7</ServiceGamesPlayed>
+      <ServiceGamesPlayedPercentage>50.0</ServiceGamesPlayedPercentage>
+      <FirstServeReturnPointsPercentage>5</FirstServeReturnPointsPercentage>
+      <FirstServeReturnPointsDividend>1</FirstServeReturnPointsDividend>
+      <FirstServeReturnPointsDivisor>20</FirstServeReturnPointsDivisor>
+      <SecondServePointsPercentage>50</SecondServePointsPercentage>
+      <SecondServePointsDividend>10</SecondServePointsDividend>
+      <SecondServePointsDivisor>20</SecondServePointsDivisor>
+      <BreakPointsConvertedPercentage>0</BreakPointsConvertedPercentage>
+      <BreakPointsConvertedDividend>0</BreakPointsConvertedDividend>
+      <BreakPointsConvertedDivisor>0</BreakPointsConvertedDivisor>
+      <ReturnGamesPlayed>7</ReturnGamesPlayed>
+      <ReturnGamesPlayedPercentage>50.0</ReturnGamesPlayedPercentage>
+      <TotalServicePointsWonPercentage>43</TotalServicePointsWonPercentage>
+      <TotalServicePointsWonDividend>23</TotalServicePointsWonDividend>
+      <TotalServicePointsWonDivisor>53</TotalServicePointsWonDivisor>
+      <TotalReturnPointsWonPercentage>28</TotalReturnPointsWonPercentage>
+      <TotalReturnPointsWonDividend>11</TotalReturnPointsWonDividend>
+      <TotalReturnPointsWonDivisor>40</TotalReturnPointsWonDivisor>
+      <TotalPointsWonPercentage>37</TotalPointsWonPercentage>
+      <TotalPointsWonDividend>34</TotalPointsWonDividend>
+      <TotalPointsWonDivisor>93}</TotalPointsWonDivisor>
+   </matchstats>
+</MatchStats>

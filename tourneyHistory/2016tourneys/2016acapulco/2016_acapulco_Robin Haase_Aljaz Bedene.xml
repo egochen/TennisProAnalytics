@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<MatchStats match_score="64 67(3) 64" match_stage="Round of 16" match_time="02:23:00">
+   
+        
+   <matchstats playerID="Robin Haase">
+      <Aces>3</Aces>
+      <AcesPercentage>23.076923076923077</AcesPercentage>
+      <DoubleFaults>3</DoubleFaults>
+      <DoubleFaultsPercentage>60.0</DoubleFaultsPercentage>
+      <FirstServePercentage>63</FirstServePercentage>
+      <FirstServeDividend>56</FirstServeDividend>
+      <FirstServeDivisor>89</FirstServeDivisor>
+      <FirstServePointsWonPercentage>73</FirstServePointsWonPercentage>
+      <FirstServePointsWonDividend>41</FirstServePointsWonDividend>
+      <FirstServePointsWonDivisor>56</FirstServePointsWonDivisor>
+      <SecondServePointsWonPercentage>67</SecondServePointsWonPercentage>
+      <SecondServePointsWonDividend>22</SecondServePointsWonDividend>
+      <SecondServePointsWonDivisor>33</SecondServePointsWonDivisor>
+      <BreakPointsSavedPercentage>0</BreakPointsSavedPercentage>
+      <BreakPointsSavedDividend>0</BreakPointsSavedDividend>
+      <BreakPointsSavedDivisor>2</BreakPointsSavedDivisor>
+      <ServiceGamesPlayed>16</ServiceGamesPlayed>
+      <ServiceGamesPlayedPercentage>50.0</ServiceGamesPlayedPercentage>
+      <FirstServeReturnPointsPercentage>23</FirstServeReturnPointsPercentage>
+      <FirstServeReturnPointsDividend>11</FirstServeReturnPointsDividend>
+      <FirstServeReturnPointsDivisor>48</FirstServeReturnPointsDivisor>
+      <SecondServePointsPercentage>45</SecondServePointsPercentage>
+      <SecondServePointsDividend>19</SecondServePointsDividend>
+      <SecondServePointsDivisor>42</SecondServePointsDivisor>
+      <BreakPointsConvertedPercentage>50</BreakPointsConvertedPercentage>
+      <BreakPointsConvertedDividend>4</BreakPointsConvertedDividend>
+      <BreakPointsConvertedDivisor>8</BreakPointsConvertedDivisor>
+      <ReturnGamesPlayed>16</ReturnGamesPlayed>
+      <ReturnGamesPlayedPercentage>50.0</ReturnGamesPlayedPercentage>
+      <TotalServicePointsWonPercentage>71</TotalServicePointsWonPercentage>
+      <TotalServicePointsWonDividend>63</TotalServicePointsWonDividend>
+      <TotalServicePointsWonDivisor>89</TotalServicePointsWonDivisor>
+      <TotalReturnPointsWonPercentage>33</TotalReturnPointsWonPercentage>
+      <TotalReturnPointsWonDividend>30</TotalReturnPointsWonDividend>
+      <TotalReturnPointsWonDivisor>90</TotalReturnPointsWonDivisor>
+      <TotalPointsWonPercentage>52</TotalPointsWonPercentage>
+      <TotalPointsWonDividend>93</TotalPointsWonDividend>
+      <TotalPointsWonDivisor>179</TotalPointsWonDivisor>
+   </matchstats>
+   <matchstats playerID="Aljaz Bedene">
+      <Aces>10</Aces>
+      <AcesPercentage>76.923076923076934</AcesPercentage>
+      <DoubleFaults>2</DoubleFaults>
+      <DoubleFaultsPercentage>40.0</DoubleFaultsPercentage>
+      <FirstServePercentage>53</FirstServePercentage>
+      <FirstServeDividend>48</FirstServeDividend>
+      <FirstServeDivisor>90</FirstServeDivisor>
+      <FirstServePointsWonPercentage>77</FirstServePointsWonPercentage>
+      <FirstServePointsWonDividend>37</FirstServePointsWonDividend>
+      <FirstServePointsWonDivisor>48</FirstServePointsWonDivisor>
+      <SecondServePointsWonPercentage>55</SecondServePointsWonPercentage>
+      <SecondServePointsWonDividend>23</SecondServePointsWonDividend>
+      <SecondServePointsWonDivisor>42</SecondServePointsWonDivisor>
+      <BreakPointsSavedPercentage>50</BreakPointsSavedPercentage>
+      <BreakPointsSavedDividend>4</BreakPointsSavedDividend>
+      <BreakPointsSavedDivisor>8</BreakPointsSavedDivisor>
+      <ServiceGamesPlayed>16</ServiceGamesPlayed>
+      <ServiceGamesPlayedPercentage>50.0</ServiceGamesPlayedPercentage>
+      <FirstServeReturnPointsPercentage>27</FirstServeReturnPointsPercentage>
+      <FirstServeReturnPointsDividend>15</FirstServeReturnPointsDividend>
+      <FirstServeReturnPointsDivisor>56</FirstServeReturnPointsDivisor>
+      <SecondServePointsPercentage>33</SecondServePointsPercentage>
+      <SecondServePointsDividend>11</SecondServePointsDividend>
+      <SecondServePointsDivisor>33</SecondServePointsDivisor>
+      <BreakPointsConvertedPercentage>100</BreakPointsConvertedPercentage>
+      <BreakPointsConvertedDividend>2</BreakPointsConvertedDividend>
+      <BreakPointsConvertedDivisor>2</BreakPointsConvertedDivisor>
+      <ReturnGamesPlayed>16</ReturnGamesPlayed>
+      <ReturnGamesPlayedPercentage>50.0</ReturnGamesPlayedPercentage>
+      <TotalServicePointsWonPercentage>67</TotalServicePointsWonPercentage>
+      <TotalServicePointsWonDividend>60</TotalServicePointsWonDividend>
+      <TotalServicePointsWonDivisor>90</TotalServicePointsWonDivisor>
+      <TotalReturnPointsWonPercentage>29</TotalReturnPointsWonPercentage>
+      <TotalReturnPointsWonDividend>26</TotalReturnPointsWonDividend>
+      <TotalReturnPointsWonDivisor>89</TotalReturnPointsWonDivisor>
+      <TotalPointsWonPercentage>48</TotalPointsWonPercentage>
+      <TotalPointsWonDividend>86</TotalPointsWonDividend>
+      <TotalPointsWonDivisor>179}</TotalPointsWonDivisor>
+   </matchstats>
+</MatchStats>
