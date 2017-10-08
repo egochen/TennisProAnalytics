@@ -1,0 +1,43 @@
+Dominic Thiem,Bernard Tomic,76(6) 46 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/TB69/TA46/live/MS001/match-stats
+Dominic Thiem,Sam Querrey,62 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/TB69/Q927/live/MS003/match-stats
+Bernard Tomic,Alexandr Dolgopolov,16 64 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/TA46/D801/live/MS002/match-stats
+Dominic Thiem,Grigor Dimitrov,75 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/TB69/D875/live/MS006/match-stats
+Bernard Tomic,Illya Marchenko,75 75,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/TA46/ME89/live/MS005/match-stats
+Alexandr Dolgopolov,Robin Haase,63 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/D801/H756/live/MS004/match-stats
+Sam Querrey,Taylor Fritz,26 64 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/Q927/FB98/live/MS007/match-stats
+Alexandr Dolgopolov,David Ferrer,64 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/D801/F401/live/MS008/match-stats
+Sam Querrey,Kei Nishikori,64 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/Q927/N552/live/MS015/match-stats
+Dominic Thiem,Dmitry Tursunov,67(5) 63 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/TB69/T315/live/MS013/match-stats
+Bernard Tomic,Adrian Mannarino,64 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/TA46/ME82/live/MS011/match-stats
+Grigor Dimitrov,Donald Young,63 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/D875/Y124/live/MS012/match-stats
+Taylor Fritz,Victor Estrella Burgos,61 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/FB98/E224/live/MS014/match-stats
+Robin Haase,Aljaz Bedene,64 67(3) 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/H756/BH09/live/MS009/match-stats
+Illya Marchenko,Ryan Harrison,76(3) 46 76(5),/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/ME89/H940/live/MS010/match-stats
+David Ferrer,John Millman,64 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/F401/MH30/live/MS016/match-stats
+Kei Nishikori,Thiemo de Bakker,60 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/N552/D776/live/MS031/match-stats
+Ryan Harrison,Marin Cilic,63 36 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/H940/C977/live/MS020/match-stats
+Dominic Thiem,Damir Dzumhur,76(3) 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/TB69/D923/live/MS027/match-stats
+Bernard Tomic,Rajeev Ram,75 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/TA46/R548/live/MS023/match-stats
+Aljaz Bedene,Ivo Karlovic,64 12 (RET),/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/BH09/K336/live/MS019/match-stats
+Grigor Dimitrov,Denis Kudla,75 61,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/D875/KB09/live/MS024/match-stats
+Taylor Fritz,Jeremy Chardy,64 36 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/FB98/CA12/live/MS028/match-stats
+Alexandr Dolgopolov,Steve Johnson,75 76(4),/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/D801/J386/live/MS017/match-stats
+Victor Estrella Burgos,Lucas Gomez,64 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/E224/GC87/live/MS029/match-stats
+Robin Haase,Luis Patino,61 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/H756/PE42/live/MS018/match-stats
+Adrian Mannarino,Tigre Hank,61 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/ME82/H917/live/MS022/match-stats
+Illya Marchenko,Tommy Paul,62 76(4),/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/ME89/PL56/live/MS021/match-stats
+Sam Querrey,Dudi Sela,62 60,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/Q927/SC56/live/MS030/match-stats
+Dmitry Tursunov,Sam Groth,64 36 75,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/T315/G940/live/MS026/match-stats
+Donald Young,Gilles Muller,63 63,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/Y124/MA30/live/MS025/match-stats
+Thiemo de Bakker,Alessandro Giannessi,64 36 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/D776/G983/live/QS004/match-stats
+Taylor Fritz,Adrian Menendez-Maceiras,63 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/FB98/MB53/live/QS005/match-stats
+Ryan Harrison,Alexander Sarkissian,61 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/H940/SL07/live/QS007/match-stats
+Tommy Paul,John-Patrick Smith,36 63 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/PL56/SJ55/live/QS006/match-stats
+Thiemo de Bakker,Eduardo Struvay,63 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/D776/SI36/live/QS008/match-stats
+Taylor Fritz,Manuel Sanchez,61 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/FB98/SI82/live/QS010/match-stats
+Tommy Paul,Radu Albot,16 76(4) 62,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/PL56/A829/live/QS012/match-stats
+Ryan Harrison,Hans Hach Verdugo,63 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/H940/H938/live/QS014/match-stats
+John-Patrick Smith,Marcelo Arevalo,64 64,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/SJ55/A853/live/QS013/match-stats
+Alessandro Giannessi,Dennis Novikov,67(6) 76(4) 61,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/G983/N674/live/QS009/match-stats
+Adrian Menendez-Maceiras,Somdev Devvarman,61 75,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/MB53/D616/live/QS011/match-stats
+Alexander Sarkissian,Andres Zepeda,62 60,/en/tournaments/abierto-mexicano-telcel/807/2016/match-stats/SL07/Z407/live/QS015/match-stats
