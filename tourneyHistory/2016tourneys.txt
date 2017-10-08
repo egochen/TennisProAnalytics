@@ -1,0 +1,67 @@
+Brisbane,Brisbane, Australia,2016.01.04,250,Outdoor Hard,28,Milos Raonic,/en/scores/archive/brisbane/339/2016/results
+Chennai,Chennai, India,2016.01.04,250,Outdoor Hard,28,Stan Wawrinka,/en/scores/archive/chennai/891/2016/results
+Doha,Doha, Qatar,2016.01.04,250,Outdoor Hard,32,Novak Djokovic,/en/scores/archive/doha/451/2016/results
+Auckland,Auckland, New Zealand,2016.01.11,250,Outdoor Hard,28,Roberto Bautista Agut,/en/scores/archive/auckland/301/2016/results
+Sydney,Sydney, Australia,2016.01.11,250,Outdoor Hard,28,Viktor Troicki,/en/scores/archive/sydney/338/2016/results
+Australian Open,Melbourne, Australia,2016.01.18,grandslam,Outdoor Hard,128,Novak Djokovic,/en/scores/archive/australian-open/580/2016/results
+Montpellier,Montpellier, France,2016.02.01,250,Indoor Hard,28,Richard Gasquet,/en/scores/archive/montpellier/375/2016/results
+Quito,Quito, Ecuador,2016.02.01,250,Outdoor Clay,28,Victor Estrella Burgos,/en/scores/archive/quito/7161/2016/results
+Sofia,Sofia, Bulgaria,2016.02.01,250,Indoor Hard,28,Roberto Bautista Agut,/en/scores/archive/sofia/7434/2016/results
+Buenos Aires,Buenos Aires, Argentina,2016.02.08,250,Outdoor Clay,28,Dominic Thiem,/en/scores/archive/buenos-aires/506/2016/results
+Memphis,Memphis, United States,2016.02.08,250,Indoor Hard,28,Kei Nishikori,/en/scores/archive/memphis/402/2016/results
+Rotterdam,Rotterdam, Netherlands,2016.02.08,500,Indoor Hard,32,Martin Klizan,/en/scores/archive/rotterdam/407/2016/results
+Delray Beach,Delray Beach, United States,2016.02.15,250,Outdoor Hard,32,Sam Querrey,/en/scores/archive/delray-beach/499/2016/results
+Marseille,Marseille, France,2016.02.15,250,Indoor Hard,28,Nick Kyrgios,/en/scores/archive/marseille/496/2016/results
+Rio de Janeiro,Rio de Janeiro, Brazil,2016.02.15,500,Outdoor Clay,32,Pablo Cuevas,/en/scores/archive/rio-de-janeiro/6932/2016/results
+Acapulco,Acapulco, Mexico,2016.02.22,500,Outdoor Hard,32,Dominic Thiem,/en/scores/archive/acapulco/807/2016/results
+Dubai,Dubai, United Arab Emirates,2016.02.22,500,Outdoor Hard,32,Stan Wawrinka,/en/scores/archive/dubai/495/2016/results
+Sao Paulo,Sao Paulo, Brazil,2016.02.22,250,Outdoor Clay,28,Pablo Cuevas,/en/scores/archive/sao-paulo/533/2016/results
+ATP World Tour Masters 1000 Indian Wells,Indian Wells, United States,2016.03.10,1000s,Outdoor Hard,96,Novak Djokovic,/en/scores/archive/indian-wells/404/2016/results
+ATP World Tour Masters 1000 Miami,Miami, United States,2016.03.23,1000s,Outdoor Hard,96,Novak Djokovic,/en/scores/archive/miami/403/2016/results
+Houston,Houston, United States,2016.04.04,250,Outdoor Clay,28,Juan Monaco,/en/scores/archive/houston/717/2016/results
+Marrakech,Marrakech, Morocco,2016.04.04,250,Outdoor Clay,28,Federico Delbonis,/en/scores/archive/marrakech/360/2016/results
+ATP World Tour Masters 1000 Monte Carlo,Monte Carlo, Monaco,2016.04.10,1000s,Outdoor Clay,56,Rafael Nadal,/en/scores/archive/monte-carlo/410/2016/results
+Barcelona,Barcelona, Spain,2016.04.18,500,Outdoor Clay,48,Rafael Nadal,/en/scores/archive/barcelona/425/2016/results
+Bucharest,Bucharest, Romania,2016.04.18,250,Outdoor Clay,28,Fernando Verdasco,/en/scores/archive/bucharest/773/2016/results
+Estoril,Estoril, Portugal,2016.04.25,250,Outdoor Clay,28,Nicolas Almagro,/en/scores/archive/estoril/7290/2016/results
+Istanbul,Istanbul, Turkey,2016.04.25,250,Outdoor Clay,28,Diego Schwartzman,/en/scores/archive/istanbul/7163/2016/results
+Munich,Munich, Germany,2016.04.25,250,Outdoor Clay,28,Philipp Kohlschreiber,/en/scores/archive/munich/308/2016/results
+ATP World Tour Masters 1000 Madrid,Madrid, Spain,2016.05.01,1000s,Outdoor Clay,56,Novak Djokovic,/en/scores/archive/madrid/1536/2016/results
+ATP World Tour Masters 1000 Rome,Rome, Italy,2016.05.08,1000s,Outdoor Clay,56,Andy Murray,/en/scores/archive/rome/416/2016/results
+Geneva,Geneva, Switzerland,2016.05.15,250,Outdoor Clay,28,Stan Wawrinka,/en/scores/archive/geneva/322/2016/results
+Nice,Nice, France,2016.05.15,250,Outdoor Clay,28,Dominic Thiem,not-in-system
+Roland Garros,Paris, France,2016.05.22,grandslam,Outdoor Clay,128,Novak Djokovic,/en/scores/archive/roland-garros/520/2016/results
+s-Hertogenbosch,s-Hertogenbosch, Netherlands,2016.06.06,250,Outdoor Grass,28,Nicolas Mahut,/en/scores/archive/s-hertogenbosch/440/2016/results
+Stuttgart,Stuttgart, Germany,2016.06.06,250,Outdoor Grass,28,Dominic Thiem,/en/scores/archive/stuttgart/321/2016/results
+Halle,Halle, Germany,2016.06.13,500,Outdoor Grass,32,Florian Mayer,/en/scores/archive/halle/500/2016/results
+London / Queen's Club,London, Great Britain,2016.06.13,500,Outdoor Grass,32,Andy Murray,/en/scores/archive/london/311/2016/results
+Nottingham,Nottingham, Great Britain,2016.06.19,250,Outdoor Grass,48,Steve Johnson,/en/scores/archive/eastbourne/741/2016/results
+Wimbledon,London, Great Britain,2016.06.27,grandslam,Outdoor Grass,128,Andy Murray,/en/scores/archive/wimbledon/540/2016/results
+Bastad,Bastad, Sweden,2016.07.11,250,Outdoor Clay,28,Albert Ramos,/en/scores/archive/bastad/316/2016/results
+Hamburg,Hamburg, Germany,2016.07.11,500,Outdoor Clay,32,Martin Klizan,/en/scores/archive/hamburg/414/2016/results
+Newport,Newport, United States,2016.07.11,250,Outdoor Grass,28,Ivo Karlovic,/en/scores/archive/newport/315/2016/results
+Gstaad,Gstaad, Switzerland,2016.07.18,250,Outdoor Clay,28,Feliciano Lopez,/en/scores/archive/gstaad/314/2016/results
+Kitzbühel,Kitzbuhel, Austria,2016.07.18,250,Outdoor Clay,28,Paolo Lorenzi,/en/scores/archive/kitzbuhel/319/2016/results
+Umag,Umag, Croatia,2016.07.18,250,Outdoor Clay,28,Fabio Fognini,/en/scores/archive/umag/439/2016/results
+Washington,Washington, United States,2016.07.18,500,Outdoor Hard,48,Gael Monfils,/en/scores/archive/washington/418/2016/results
+ATP World Tour Masters 1000 Canada,Toronto, Canada,2016.07.25,1000s,Outdoor Hard,56,Novak Djokovic,/en/scores/archive/montreal/421/2016/results
+Atlanta,Atlanta, United States,2016.08.01,250,Outdoor Hard,28,Nick Kyrgios,/en/scores/archive/atlanta/6116/2016/results
+Rio de Janeiro Olympic Games,Rio de Janeiro, Brazil,2016.08.04,itf,Outdoor Hard,64,Andy Murray,/en/scores/archive/rio-de-janeiro/96/2016/results
+Los Cabos,Los Cabos, Mexico,2016.08.08,250,Outdoor Hard,28,Ivo Karlovic,/en/scores/archive/los-cabos/7480/2016/results
+ATP World Tour Masters 1000 Cincinnati,Cincinnati, United States,2016.08.14,1000s,Outdoor Hard,56,Marin Cilic,/en/scores/archive/cincinnati/422/2016/results
+Winston-Salem,Winston-Salem, United States,2016.08.21,250,Outdoor Hard,48,Pablo Carreno Busta,/en/scores/archive/winston-salem/6242/2016/results
+US Open,New York, United States,2016.08.29,grandslam,Outdoor Hard,128,Stan Wawrinka,/en/scores/archive/us-open/560/2016/results
+Metz,Metz, France,2016.09.19,250,Indoor Hard,28,Lucas Pouille,/en/scores/archive/metz/341/2016/results
+St. Petersburg,St. Petersburg, Russia,2016.09.19,250,Indoor Hard,28,Alexander Zverev,/en/scores/archive/st-petersburg/568/2016/results
+Chengdu,Chengdu, China,2016.09.26,250,Outdoor Hard,28,Karen Khachanov,/en/scores/archive/chengdu/7581/2016/results
+Shenzhen,Shenzhen, China,2016.09.26,250,Outdoor Hard,28,Tomas Berdych,/en/scores/archive/shenzhen/6967/2016/results
+Beijing,Beijing, China,2016.10.03,500,Outdoor Hard,32,Andy Murray,/en/scores/archive/beijing/747/2016/results
+Tokyo,Tokyo, Japan,2016.10.03,500,Outdoor Hard,32,Nick Kyrgios,/en/scores/archive/tokyo/329/2016/results
+ATP World Tour Masters 1000 Shanghai,Shanghai, China,2016.10.09,1000s,Outdoor Hard,56,Andy Murray,/en/scores/archive/shanghai/5014/2016/results
+Antwerp,Antwerp, Belgium,2016.10.17,250,Indoor Hard,28,Richard Gasquet,/en/scores/archive/antwerp/7485/2016/results
+Moscow,Moscow, Russia,2016.10.17,250,Indoor Hard,28,Pablo Carreno Busta,/en/scores/archive/moscow/438/2016/results
+Stockholm,Stockholm, Sweden,2016.10.17,250,Indoor Hard,28,Juan Martin del Potro,/en/scores/archive/stockholm/429/2016/results
+Basel,Basel, Switzerland,2016.10.24,500,Indoor Hard,32,Marin Cilic,/en/scores/archive/basel/328/2016/results
+Vienna,Vienna, Austria,2016.10.24,500,Indoor Hard,32,Andy Murray,/en/scores/archive/vienna/337/2016/results
+ATP World Tour Masters 1000 Paris,Paris, France,2016.10.31,1000s,Indoor Hard,48,Andy Murray,/en/scores/archive/paris/352/2016/results
+ATP Finals,London, Great Britain,2016.11.13,atpfinals,Indoor Hard,8,Andy Murray,/en/scores/archive/nitto-atp-finals/605/2016/results
